@@ -19,7 +19,7 @@
 
 ---
 
-## 📑 Содержание
+##  Содержание
 - [О проекте](#о-проекте)
   - [Стек](#стек)
 - [Начало работы](#начало-работы)
@@ -70,19 +70,17 @@
    git clone https://github.com/bolotova818/movie-recommender.git
    cd movie-recommender
 2. Установить зависимости для backend:
-  ```bash
-   cd backend
+    ```bash
+    cd backend
    pip install -r requirements.txt
    uvicorn app:app --reload
 3. Установить зависимости для frontend:
-  ```bash
+ ```bash
    cd movie-frontend
    npm install
    npm run dev
 
-
-
-
+```
 <!-- USAGE EXAMPLES -->
 ## Использование
 
@@ -103,7 +101,9 @@ GET /films/random?limit=5
     "rating": 9.1
   }
 ]
+```
 Рекомендации
+```
 POST /recommend
 Content-Type: application/json
 
@@ -111,8 +111,9 @@ Content-Type: application/json
   "liked_titles": ["Матрица", "Интерстеллар"],
   "top_n": 5
 }
-
+```
 Пример ответа:
+```
 {
   "recommendations": [
     {
@@ -126,7 +127,9 @@ Content-Type: application/json
     }
   ]
 }
+```
 Дорожная карта
+```
 
  Bag-of-Words
 
@@ -144,7 +147,7 @@ Content-Type: application/json
 
 Смотри issues
  для полного списка задач и предложений.
-
+```
 
 
 
