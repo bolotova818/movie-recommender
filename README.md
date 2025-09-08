@@ -125,7 +125,7 @@ Content-Type: application/json
 }
 ```
 Дорожная карта
-```
+
 
 - [x] Bag-of-Words  
 - [x] TF-IDF (ручная реализация)  
@@ -136,7 +136,7 @@ Content-Type: application/json
 - [ ] Добавить коллаборативную фильтрацию  
 
 Смотри issues для полного списка задач и предложений.
-```
+
 
 
 
