@@ -5,18 +5,6 @@
 <div align="center">
   <h3 align="center">Рекомендательная система фильмов (Python + FastAPI + React)</h3>
 
-  <p align="center">
-    Проект рекомендательной системы фильмов на Python (FastAPI) и React
-    <br />
-    <a href="https://github.com/bolotova818/movie-recommender"><strong>Документация »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/bolotova818/movie-recommender/issues">Сообщить о баге</a>
-    ·
-    <a href="https://github.com/bolotova818/movie-recommender/issues">Предложить фичу</a>
-  </p>
-</div>
-
 ---
 
 ##  Содержание
