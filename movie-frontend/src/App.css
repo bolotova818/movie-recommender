@@ -156,6 +156,15 @@ body {
   max-height: 80vh;
   overflow: auto;
 }
+@media (max-width: 768px) {
+  .aside {
+    position: static;   /* убираем прилипание */
+    max-height: none;   /* разрешаем полную высоту */
+    overflow: visible;  /* убираем внутренний скролл */
+    margin-top: 20px;   /* небольшой отступ сверху */
+  }
+}
+
 
 .recItem {
   background: #191919;
