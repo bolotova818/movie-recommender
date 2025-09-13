@@ -2,6 +2,7 @@
 
 #  Рекомендательная система фильмов  
 _Python + FastAPI + React_
+
 Деплой проекта доступен онлайн:  
 - [Frontend (React)](https://movie-recommender-two-opal.vercel.app)  
 - [Backend API (FastAPI)](https://movie-recommender-yfvi.onrender.com/docs)) (Swagger UI)  
