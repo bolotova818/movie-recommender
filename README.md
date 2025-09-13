@@ -8,6 +8,7 @@ _Python + FastAPI + React_
 - [Backend API (FastAPI)](https://movie-recommender-yfvi.onrender.com/docs)) (Swagger UI)  
 
 Можно протестировать прямо в браузере.
+
 P.S. Т.к. сервера использованы бесплатные - может понадобиться время, чтобы бэк подгрузился.
 
 ---
