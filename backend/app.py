@@ -34,7 +34,7 @@ class FilmResponse(BaseModel):
 class RecommendResponse(BaseModel):
     recommendations: list[FilmResponse]
 
-# Вспомогательные штуки
+
 def normalize_title(s: str) -> str:
     return s.strip().lower()
 
