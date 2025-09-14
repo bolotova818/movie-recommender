@@ -55,7 +55,7 @@ P.S. Т.к. сервера использованы бесплатные - мо�
 ---
 
 ### Стек
-- Python 3.12+
+- Python 3.11+
 - FastAPI
 - Pandas
 - scikit-learn, SciPy
@@ -152,6 +152,7 @@ Content-Type: application/json
 > Фронтенд подключён к версии алгоритма v3 (TF-IDF на scikit-learn).
 
 
+
 Дорожная карта
 
 
@@ -169,7 +170,9 @@ Content-Type: application/json
 ## Contact
 
 bolotova818@gmail.com
+
 телеграм - @ban_any
+
 Буду рада фидбеку или вопросам по проекту!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
